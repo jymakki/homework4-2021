@@ -109,14 +109,13 @@ thead tr:last-child th:last-child{
   border-top-right-radius: 50px;
 }
 
-table tr:last-child td:last-child{
+tbody tr:last-child th.rowhead:first-child{
   border-bottom-left-radius: 50px;
 }
 
 table tr:last-child td:last-child{
   border-bottom-right-radius: 50px;
 }
-
 
 
 
